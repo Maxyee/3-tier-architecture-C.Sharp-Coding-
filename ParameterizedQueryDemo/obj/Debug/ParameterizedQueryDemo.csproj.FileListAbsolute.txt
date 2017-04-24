@@ -1,0 +1,6 @@
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\22.04.2017(ParameterizedQuery)\ParameterizedQueryDemo\ParameterizedQueryDemo\bin\ParameterizedQueryDemo.dll.config
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\22.04.2017(ParameterizedQuery)\ParameterizedQueryDemo\ParameterizedQueryDemo\bin\ParameterizedQueryDemo.dll
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\22.04.2017(ParameterizedQuery)\ParameterizedQueryDemo\ParameterizedQueryDemo\bin\ParameterizedQueryDemo.pdb
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\22.04.2017(ParameterizedQuery)\ParameterizedQueryDemo\ParameterizedQueryDemo\obj\Debug\ParameterizedQueryDemo.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\22.04.2017(ParameterizedQuery)\ParameterizedQueryDemo\ParameterizedQueryDemo\obj\Debug\ParameterizedQueryDemo.dll
+C:\Users\Trainer 301\Desktop\Web App.Net\Batch 42\22.04.2017(ParameterizedQuery)\ParameterizedQueryDemo\ParameterizedQueryDemo\obj\Debug\ParameterizedQueryDemo.pdb
